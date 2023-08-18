@@ -14,7 +14,7 @@ struct Motivation: View {
     @State var sad = ""
     //happy variables
     @State private var isHappyClicked = false
-    @State var happyQuotes = [" Keep shining, you're a beacon of happiness ", " Find joy in the little things ", " Today is a good day to be happy ", " Smile! It's contagious! ", " Today is a good day to be happy "]
+    @State var happyQuotes = [" Keep shining, you're a beacon of happiness ", " Find joy in the little things ", " Today is a good day to be happy ", " Smile! It's contagious! ", " Today is a good day to be happy! "]
     @State var happy = ""
     //love variables
     @State private var isLoveClicked = false
